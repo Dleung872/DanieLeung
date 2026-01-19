@@ -14,7 +14,7 @@
 
 ## Technologies used
 #### -Visualstudiocode
--Python
+####-Python
 
 ## License
 #### - MIT license is used because it is the most common license that is used, therefore it is the one used in this project. 
