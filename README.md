@@ -1,4 +1,4 @@
-# DanieLeung 
+# DanielLeung 
 # CLI calculator project
 
 ## Description
