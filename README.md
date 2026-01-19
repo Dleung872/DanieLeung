@@ -12,4 +12,11 @@
 - User can easily input numbers to be calculated
 - For division, user has a choice between remainders, decimal places, or floor division
 
+##Technologies used
+-Visualstudiocode
+-Python
+
+##License
+- MIT license is used because it is the most common license that is used, therefore it is the one used in this project. 
+
 
